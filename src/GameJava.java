@@ -8,11 +8,11 @@ public class GameJava {
           Scanner scanner = new Scanner(System.in);
 
 
-          //declaraciones y asignaciones
+          //   declaraciones y asignaciones
           String palabraSecreta = "inteligencia";
-          int intentosMaximos = 10;
-          int intentos = 0;
-          boolean palabraAdivinada = false;
+          int intentosMaximos  = 10;
+          int intentos  = 0;
+          boolean palabraAdivinada  = false;
 
 
           //arreglos
